@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-size: 100%;
+}
+body{
+    background-image: url(huacachina4k.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+.huacachina{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.navbar a {
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    overflow: hidden;
+
+}
+
+.navbar  .links a:last-child{
+    margin: ;
+}
+.navbar a{
+    transition: color 0.5s ease;
+    cursor: pointer;
+}
+
+.navbar a:hover{
+    color: #d1a631 !important;
+}
+
+.navbar{
+    display: flex;
+    padding-right: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+
+.navbar .links a:hover i{
+    color: #1877f2;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.navbar .links a{
+    color: inherit;
+}
+.navbar . links a i.fa-facebook-f{
+    color: #ffffff;
+}
+
+
+
+
+.header{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 40px;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    height: 70px;
+    display:flex ;
+    align-items: center;
+    color: white;
+    background: #171717;
+    justify-content: space-between;
+    padding-left: 20px;
+    
+    
+}
+    .listas{
+        padding-left: 20px;
+        font-size: 20px;
+        display: inline-block;
+    }
+
+
+.historia{
+    font-size: 20px;
+}
+.leyenda{
+    display: inline-block;
+    padding-top: 10.4%;
+    padding-left: 3%;
+    font-size: 50px;
+    
+}
+
+.clima{
+    position: absolute;
+    margin: 0%;
+    padding-top: 10%;
+    padding-left: 18%;
+    display: inline-block;
+    font-size: 60px;
+
+
+}
+.definicion{
+    font-size: 21px;
+    position: absolute;
+    padding-top: 14.3%;
+    padding-left: 18%;
+    display: inline-block;
+}
+
+
+
+
